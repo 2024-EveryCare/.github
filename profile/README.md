@@ -2,6 +2,9 @@
     💊 Everycare 💊
 </h1>
 
+<div align="center" style="font-size:18px"> 
+<b>복용한 약을 온라인에 기록하면서 스마트한 건강 관리를 시작해보세요! </b> </div>
+<p align="center">
 <!--
 
 **Here are some ideas to get you started:**
